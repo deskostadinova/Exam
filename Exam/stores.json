@@ -1,0 +1,74 @@
+[
+  {
+    "StoreName": "Rainbow Mart",
+    "Location": "Canada",
+    "AssignedTypes": [
+      "Grocery",
+      "Clothing"
+    ],
+    "Income": 45000.50
+  },
+  {
+    "StoreName": "Tech Outlet",
+    "Location": "United States",
+    "AssignedTypes": [
+      "Electronics"
+    ],
+    "Income": 200000.0
+  },
+  {
+    "StoreName": "Fashion Bazar",
+    "Location": "France",
+    "AssignedTypes": [
+      "Clothing",
+      "Shoes"
+    ],
+    "Income": 95000.0
+  },
+  {
+    "StoreName": "Book Haven",
+    "Location": "United Kingdom",
+    "AssignedTypes": [
+      "Books",
+      "Stationery"
+    ],
+    "Income": 35000.0
+  },
+  {
+    "StoreName": "Foodie's Paradise",
+    "Location": "Spain",
+    "AssignedTypes": [
+      "Grocery"
+    ],
+    "Income": 120000.0
+  },
+  {
+    "StoreName": "Wholesale World",
+    "Location": "Germany",
+    "AssignedTypes": [
+      "Wholesale",
+      "Electronics"
+    ],
+    "Income": 500000.0
+  },
+  {
+    "StoreName": "Desi Co",
+    "Location": "Gabon",
+    "AssignedTypes": [
+      "Retail-Online"
+    ],
+    "Income": 32322.0
+  },
+  {
+    "StoreName": "H&M",
+    "Location": "France",
+    "AssignedTypes": [],
+    "Income": 12000.2
+  },
+  {
+    "StoreName": "Sinsay",
+    "Location": "Canada",
+    "AssignedTypes": [],
+    "Income": 400000.0
+  }
+]
