@@ -1,5 +1,4 @@
 namespace Exam;
-
 public class Country
 {
     public Name Name { get; set; }
